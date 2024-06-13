@@ -1,1 +1,1 @@
-# This is a sample message that will get pulled into the Tutors footer automatically!
+This is a sample message that will get pulled into the Tutors footer automatically!
